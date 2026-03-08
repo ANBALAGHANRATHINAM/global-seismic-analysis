@@ -19,5 +19,5 @@ The goal is to practice Python and SQL using real seismic datasets.
 -streamlit
 
 ## Project Status
-In Progress – Learning Project
+ Project completed
 
